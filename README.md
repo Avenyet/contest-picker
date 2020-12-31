@@ -11,3 +11,7 @@ the file format is
 	..
 	..
 	name x
+	
+	
+Current has for main.js is 298cff9ebcf53f9109666f7ac0555569
+If this is different then the file cannot be trusted
